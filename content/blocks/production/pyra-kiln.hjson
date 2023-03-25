@@ -1,7 +1,8 @@
 {
     type: GenericCrafter
     name: "Pyra Kiln"
-    description: "A kiln that use the new pyratite technology to process sand and lead more efficiently."
+    description: "A kiln that use the pyratite technology to process sand and lead more efficiently."
+    details: "After discovering the new pyratite technology, the Kiln has been upgraded to use it. It is now able to process sand and lead more efficiently."
     health: 250
     size: 3
     hasPower: true
