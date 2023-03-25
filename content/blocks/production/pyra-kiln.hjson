@@ -1,0 +1,32 @@
+{
+    type: GenericCrafter
+    name: "Pyra Kiln"
+    description: "A kiln that use the new pyratite technology to process sand and lead more efficiently."
+    health: 250
+    size: 3
+    hasPower: true
+    hasItems: true
+    itemCapacity: 15
+    craftTime: 150
+    Consumes: {
+        items: {
+            items: [
+            sand/5
+            lead/5
+            pyratite/1
+            ]
+        }
+        power: 1.5
+    },
+    outputItem: metaglass/5
+    requirements: [
+        copper/120
+        lead/60
+        graphite/60
+        silicon/30
+        ]
+    category: crafting
+    research: kiln
+    loopSound: machine
+    loopSoundVolume: 0.95    
+}

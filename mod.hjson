@@ -1,0 +1,8 @@
+{
+    author: THEdarkkman
+    name: progressive-factory
+    displayName: Progressive Factory
+    version: 1.0.0
+    description: Have you dreamed about a better kiln ? Aren't you tired of having no silicon, again ? Then you are on the right place, this mod adds upgraded variant of the vanilla factory to scale with your base as you progress through the campaign. It also offer possibilities for upgrading existing drill. Use cryofluid to make them even faster than before to match the endless need of resource.
+    minGameVersion: 142
+}
